@@ -6,7 +6,7 @@ namespace Ejercicio_conjunto
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("holaaa");
         }
     }
 }
