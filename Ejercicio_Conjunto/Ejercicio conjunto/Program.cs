@@ -8,5 +8,14 @@ namespace Ejercicio_conjunto
         {
             Console.WriteLine("holaaa");
         }
+        static void anadirDatos()
+        {
+            Console.WriteLine("");
+            string nuevoDato = Console.ReadLine();
+            if (cantidad<capacidad)
+            {
+                anadirDatos[cantidad]=anadirDatos
+                    cantidad++
+            }
     }
 }
