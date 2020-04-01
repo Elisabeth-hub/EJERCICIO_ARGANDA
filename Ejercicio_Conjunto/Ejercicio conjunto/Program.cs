@@ -17,7 +17,11 @@ namespace Ejercicio_conjunto
                 anadirDatos[cantidad]=anadirDatos
                     cantidad++
             }
-            
+            else
+                    {
+                        Console.Write("No hay más opciones");
+                        i = 5;
+                    }
             //prueba
     }
 }
