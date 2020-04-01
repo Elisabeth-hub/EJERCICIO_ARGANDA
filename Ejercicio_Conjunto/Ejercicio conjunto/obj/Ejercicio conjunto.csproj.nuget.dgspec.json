@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\CampusFP\\Desktop\\Ejercicio_Conjunto\\Ejercicio conjunto\\Ejercicio conjunto.csproj": {}
+    "E:\\ejercicio_github\\EJERCICIO_ARGANDA\\Ejercicio_Conjunto\\Ejercicio conjunto\\Ejercicio conjunto.csproj": {}
   },
   "projects": {
-    "D:\\Users\\CampusFP\\Desktop\\Ejercicio_Conjunto\\Ejercicio conjunto\\Ejercicio conjunto.csproj": {
+    "E:\\ejercicio_github\\EJERCICIO_ARGANDA\\Ejercicio_Conjunto\\Ejercicio conjunto\\Ejercicio conjunto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\CampusFP\\Desktop\\Ejercicio_Conjunto\\Ejercicio conjunto\\Ejercicio conjunto.csproj",
+        "projectUniqueName": "E:\\ejercicio_github\\EJERCICIO_ARGANDA\\Ejercicio_Conjunto\\Ejercicio conjunto\\Ejercicio conjunto.csproj",
         "projectName": "Ejercicio conjunto",
-        "projectPath": "D:\\Users\\CampusFP\\Desktop\\Ejercicio_Conjunto\\Ejercicio conjunto\\Ejercicio conjunto.csproj",
-        "packagesPath": "D:\\Users\\CampusFP\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\CampusFP\\Desktop\\Ejercicio_Conjunto\\Ejercicio conjunto\\obj\\",
+        "projectPath": "E:\\ejercicio_github\\EJERCICIO_ARGANDA\\Ejercicio_Conjunto\\Ejercicio conjunto\\Ejercicio conjunto.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "E:\\ejercicio_github\\EJERCICIO_ARGANDA\\Ejercicio_Conjunto\\Ejercicio conjunto\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "D:\\Users\\CampusFP\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
